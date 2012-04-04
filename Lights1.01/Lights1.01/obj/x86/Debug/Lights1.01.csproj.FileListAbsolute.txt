@@ -1,9 +1,0 @@
-C:\Documents and Settings\Home\my documents\visual studio 2010\Projects\Lights1.01\Lights1.01\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Documents and Settings\Home\my documents\visual studio 2010\Projects\Lights1.01\Lights1.01\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
-C:\Documents and Settings\Home\my documents\visual studio 2010\Projects\Lights1.01\Lights1.01\obj\x86\Debug\Lights.Properties.Resources.resources
-C:\Documents and Settings\Home\my documents\visual studio 2010\Projects\Lights1.01\Lights1.01\obj\x86\Debug\GenerateResource.read.1.tlog
-C:\Documents and Settings\Home\my documents\visual studio 2010\Projects\Lights1.01\Lights1.01\obj\x86\Debug\GenerateResource.write.1.tlog
-C:\Documents and Settings\Home\my documents\visual studio 2010\Projects\Lights1.01\Lights1.01\bin\Debug\Lights1.01.exe
-C:\Documents and Settings\Home\my documents\visual studio 2010\Projects\Lights1.01\Lights1.01\bin\Debug\Lights1.01.pdb
-C:\Documents and Settings\Home\my documents\visual studio 2010\Projects\Lights1.01\Lights1.01\obj\x86\Debug\Lights1.01.exe
-C:\Documents and Settings\Home\my documents\visual studio 2010\Projects\Lights1.01\Lights1.01\obj\x86\Debug\Lights1.01.pdb
