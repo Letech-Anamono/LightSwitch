@@ -1,0 +1,13 @@
+C:\Documents and Settings\Home\my documents\visual studio 2010\Projects\Lights1.01\Lights1.01\bin\Release\Lights1.01.exe.manifest
+C:\Documents and Settings\Home\my documents\visual studio 2010\Projects\Lights1.01\Lights1.01\bin\Release\Lights1.01.application
+C:\Documents and Settings\Home\my documents\visual studio 2010\Projects\Lights1.01\Lights1.01\bin\Release\Lights1.01.exe
+C:\Documents and Settings\Home\my documents\visual studio 2010\Projects\Lights1.01\Lights1.01\bin\Release\Lights1.01.pdb
+C:\Documents and Settings\Home\my documents\visual studio 2010\Projects\Lights1.01\Lights1.01\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Home\my documents\visual studio 2010\Projects\Lights1.01\Lights1.01\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Home\my documents\visual studio 2010\Projects\Lights1.01\Lights1.01\obj\x86\Release\Lights.Properties.Resources.resources
+C:\Documents and Settings\Home\my documents\visual studio 2010\Projects\Lights1.01\Lights1.01\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Home\my documents\visual studio 2010\Projects\Lights1.01\Lights1.01\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Home\my documents\visual studio 2010\Projects\Lights1.01\Lights1.01\obj\x86\Release\Lights1.01.exe.manifest
+C:\Documents and Settings\Home\my documents\visual studio 2010\Projects\Lights1.01\Lights1.01\obj\x86\Release\Lights1.01.application
+C:\Documents and Settings\Home\my documents\visual studio 2010\Projects\Lights1.01\Lights1.01\obj\x86\Release\Lights1.01.exe
+C:\Documents and Settings\Home\my documents\visual studio 2010\Projects\Lights1.01\Lights1.01\obj\x86\Release\Lights1.01.pdb
