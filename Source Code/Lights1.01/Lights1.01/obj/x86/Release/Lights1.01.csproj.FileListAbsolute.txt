@@ -11,3 +11,5 @@ C:\Documents and Settings\Home\my documents\visual studio 2010\Projects\Lights1.
 C:\Documents and Settings\Home\my documents\visual studio 2010\Projects\Lights1.01\Lights1.01\obj\x86\Release\Lights1.01.application
 C:\Documents and Settings\Home\my documents\visual studio 2010\Projects\Lights1.01\Lights1.01\obj\x86\Release\Lights1.01.exe
 C:\Documents and Settings\Home\my documents\visual studio 2010\Projects\Lights1.01\Lights1.01\obj\x86\Release\Lights1.01.pdb
+C:\Documents and Settings\Home\My Documents\LightSwitch\Source Code\Lights1.01\Lights1.01\obj\x86\Release\Lights1.01.exe
+C:\Documents and Settings\Home\My Documents\LightSwitch\Source Code\Lights1.01\Lights1.01\obj\x86\Release\Lights1.01.pdb
