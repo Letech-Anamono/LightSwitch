@@ -24,7 +24,7 @@ namespace WindowsFormsApplication1
             string s = button1.Text;
             COM1.WriteLine(command);
                     if (s.Equals("Lights on"))
-                    {button1.Text = "Lights off";
+                    {button1.Text = "Mahmoud test";
             pictureBox1.Image = Lights.Properties.Resources.Light_on;
                     }else{
             button1.Text = "Lights on";
