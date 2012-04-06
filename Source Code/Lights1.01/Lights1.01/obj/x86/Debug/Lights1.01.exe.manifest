@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Lights1.01.exe" size="419840">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Lights1.01.exe" size="420352">
       <assemblyIdentity name="Lights1.01" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>JZKokcba3OP43IppU37p4KH2dNQ=</dsig:DigestValue>
+        <dsig:DigestValue>wF+ue3lcvFPTUW8ypJwZCup+GDE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
